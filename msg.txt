@@ -1,0 +1,10 @@
+import java.until.*
+{
+public class hlocsea
+{
+public static  void main(string args[])
+{
+system.out.println("hlocsea")
+}
+}
+}  
